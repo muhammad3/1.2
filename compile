@@ -1,0 +1,4 @@
+vcom constants.vhd
+vcom fd.vhd
+vcom fd_generic.vhd
+vcom tb_fd_generic.vhd
